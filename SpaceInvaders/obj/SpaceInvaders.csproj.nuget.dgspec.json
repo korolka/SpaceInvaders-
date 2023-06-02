@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vlad\\OneDrive - Державний торговельно-економічний університет\\Рабочий стол\\ZooWin\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj": {}
+    "C:\\Users\\Vlad\\source\\repos\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vlad\\OneDrive - Державний торговельно-економічний університет\\Рабочий стол\\ZooWin\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj": {
+    "C:\\Users\\Vlad\\source\\repos\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vlad\\OneDrive - Державний торговельно-економічний університет\\Рабочий стол\\ZooWin\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj",
+        "projectUniqueName": "C:\\Users\\Vlad\\source\\repos\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj",
         "projectName": "SpaceInvaders",
-        "projectPath": "C:\\Users\\Vlad\\OneDrive - Державний торговельно-економічний університет\\Рабочий стол\\ZooWin\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj",
+        "projectPath": "C:\\Users\\Vlad\\source\\repos\\SpaceInvaders\\SpaceInvaders\\SpaceInvaders.csproj",
         "packagesPath": "C:\\Users\\Vlad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vlad\\OneDrive - Державний торговельно-економічний університет\\Рабочий стол\\ZooWin\\SpaceInvaders\\SpaceInvaders\\obj\\",
+        "outputPath": "C:\\Users\\Vlad\\source\\repos\\SpaceInvaders\\SpaceInvaders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

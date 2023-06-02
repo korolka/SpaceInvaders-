@@ -42,10 +42,7 @@ namespace SpaceInvaders
                 Thread.Sleep(gameSettings.GameSpeed);
                 sceneRender.ClearScreen();
 
-                if (Console.KeyAvailable)
-                {
-                    GamePause();
-                }
+                
 
                 if (swarmMoveCounter == gameSettings.SwarmSpeed)
                 {
