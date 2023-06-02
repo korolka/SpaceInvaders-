@@ -1,0 +1,15 @@
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\bin\Debug\net6.0\SpaceInvaders.exe
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\bin\Debug\net6.0\SpaceInvaders.deps.json
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\bin\Debug\net6.0\SpaceInvaders.runtimeconfig.json
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\bin\Debug\net6.0\SpaceInvaders.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\bin\Debug\net6.0\SpaceInvaders.pdb
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\SpaceInvaders.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\SpaceInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\SpaceInvaders.AssemblyInfoInputs.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\SpaceInvaders.AssemblyInfo.cs
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\SpaceInvaders.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\refint\SpaceInvaders.dll
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\SpaceInvaders.pdb
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\SpaceInvaders.genruntimeconfig.cache
+C:\Users\Vlad\OneDrive - Державний торговельно-економічний університет\Рабочий стол\ZooWin\SpaceInvaders\SpaceInvaders\obj\Debug\net6.0\ref\SpaceInvaders.dll
